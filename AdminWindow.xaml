@@ -1,0 +1,41 @@
+﻿<Window x:Class="Ролевая_модель.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ролевая_модель"
+        mc:Ignorable="d"
+        Title="AdminWindow" Height="450" Width="900">
+    <TabControl Background="#FFE1FCFA" >
+        <TabItem>
+
+            <TabItem.Header>
+                Роли
+            </TabItem.Header>
+            <StackPanel>
+                <ScrollViewer Height="300">
+                    <Grid Name="RolesGrid" ShowGridLines="True" MinHeight="300" Width="900"></Grid>
+                </ScrollViewer>
+                <StackPanel Orientation="Horizontal" Margin="0,20,0,0" HorizontalAlignment="Center">
+                    <ComboBox Name="cbUsers" Width="200" Height="30" FontSize="12" FontFamily="Segoe UI Semibold"></ComboBox>
+                    <Button Name="btDeleteUser" Width="150" Margin="50,0,0,0" FontSize="12" FontFamily="Segoe UI Semibold" Click="BtDeleteUser_Click">Удалить пользователя</Button>
+                </StackPanel>
+            </StackPanel>
+        </TabItem>
+        <TabItem>
+            <TabItem.Header>
+                Права
+            </TabItem.Header>
+            <StackPanel>
+                <ScrollViewer Height="300">
+                    <Grid Name="RightsGrid"  ShowGridLines="True"  MinHeight="300" Width="900"></Grid>
+                </ScrollViewer>
+                <StackPanel Orientation="Horizontal" Margin="0,20,0,0" HorizontalAlignment="Center">
+                    <ComboBox Name="cbFiles" Width="200" Height="30" FontSize="12" FontFamily="Segoe UI Semibold"></ComboBox>
+                    <Button Name="btDeleteFile" Width="150" Margin="30,0,0,0" FontSize="12" FontFamily="Segoe UI Semibold" Click="BtDeleteFile_Click">Удалить файл</Button>
+                    <Button Name="btAddFile" Width="150" Margin="50,0,0,0" FontSize="12" FontFamily="Segoe UI Semibold" Click="BtAddFile_Click" >Добавить файл</Button>
+                </StackPanel>
+            </StackPanel>
+        </TabItem>
+    </TabControl>
+</Window>

@@ -1,0 +1,17 @@
+﻿<Window x:Class="Ролевая_модель.RoleChoice"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ролевая_модель"
+        mc:Ignorable="d"
+        Title="RoleChoice" Height="415" Width="400" Background="#FFE1FCFA">
+    <StackPanel Orientation="Vertical">
+        <TextBlock TextAlignment="Center" FontSize="22" Margin="0,10,0,0" FontFamily="Segoe UI Semibold" TextWrapping="Wrap">Выберите роль, под которой хотите зайти</TextBlock>
+        <Border Height="232" Width="352" Background="Black" Margin="0,10,0,10">
+            <StackPanel Name="spRoles" Orientation="Vertical" Height="230" Width="350"  Background="#FFE1FCFA">
+            </StackPanel>
+        </Border>
+        <Button Name="btEntrance" Width="120" Height="30" HorizontalAlignment="Right" Margin="0,10,20,0" FontSize="15"  FontFamily="Segoe UI Semibold" Click="BtEntrance_Click">Войти</Button>
+    </StackPanel>
+</Window>

@@ -1,0 +1,21 @@
+﻿<Window x:Class="Ролевая_модель.CreateFile"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ролевая_модель"
+        mc:Ignorable="d"
+        Title="CreateUserWindow" Height="200" Width="350" ResizeMode="NoResize" WindowStartupLocation="CenterOwner" Background="#FFE5E3E3">
+    <StackPanel Orientation="Vertical">
+        <TextBlock TextAlignment="Center" FontSize="24" Margin="0,10,0,0" FontFamily="Segoe UI Semibold">Создание файла</TextBlock>
+        <StackPanel Height="50"  Orientation="Horizontal" Margin="0,10,0,0">
+            <Label Height="30" Width="70" Margin="10,0,0,5" HorizontalAlignment="Center" VerticalAlignment="Bottom" FontSize="16" FontFamily="Segoe UI Semibold" >Имя</Label>
+            <Border Height="39" Width="234" Background="#FF939191">
+                <TextBox Name="tbNewFileName" Height="35" Width="230" Background="#FFF9F3F3" FontSize="16" ></TextBox>
+            </Border>
+        </StackPanel>
+        <Border Height="34" Width="174" Background="#FF939191" BorderThickness="0" Margin="110,5,0,0">
+            <Button Name="btAddNewFile" Height="30" Width="170" FontSize="16" FontFamily="Segoe UI Semibold" IsDefault="True" Click="BtAddNewFile_Click">Создать файл</Button>
+        </Border>
+    </StackPanel>
+</Window>

@@ -1,0 +1,58 @@
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\Ролевая модель.csprojAssemblyReference.cache
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\MainWindow.g.cs
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\App.g.cs
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\Ролевая модель_MarkupCompile.cache
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\Ролевая модель_MarkupCompile.lref
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\AddUser.g.cs
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\AdminWindow.g.cs
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\CreateFile.g.cs
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\Desktop.g.cs
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\FileWin.g.cs
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\RoleChoice.g.cs
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\WriteToFile.g.cs
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\bin\Debug\Ролевая модель.exe.config
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\bin\Debug\Ролевая модель.exe
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\bin\Debug\Ролевая модель.pdb
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\AddUser.baml
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\AdminWindow.baml
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\CreateFile.baml
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\Desktop.baml
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\FileWin.baml
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\MainWindow.baml
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\RoleChoice.baml
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\WriteToFile.baml
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\Ролевая модель.g.resources
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\Ролевая_модель.Properties.Resources.resources
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\Ролевая модель.csproj.GenerateResource.cache
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\Ролевая модель.csproj.CoreCompileInputs.cache
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\Ролевая модель.exe
+C:\Users\usano\source\repos\Ролевая модель\Ролевая модель\obj\Debug\Ролевая модель.pdb
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\bin\Debug\Ролевая модель.exe.config
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\bin\Debug\Ролевая модель.exe
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\bin\Debug\Ролевая модель.pdb
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\Ролевая модель.csprojAssemblyReference.cache
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\AddUser.g.cs
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\AdminWindow.g.cs
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\CreateFile.g.cs
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\Desktop.g.cs
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\FileWin.g.cs
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\MainWindow.g.cs
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\RoleChoice.g.cs
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\WriteToFile.g.cs
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\App.g.cs
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\Ролевая модель_MarkupCompile.cache
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\Ролевая модель_MarkupCompile.lref
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\AddUser.baml
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\AdminWindow.baml
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\CreateFile.baml
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\Desktop.baml
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\FileWin.baml
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\MainWindow.baml
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\RoleChoice.baml
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\WriteToFile.baml
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\Ролевая модель.g.resources
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\Ролевая_модель.Properties.Resources.resources
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\Ролевая модель.csproj.GenerateResource.cache
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\Ролевая модель.csproj.CoreCompileInputs.cache
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\Ролевая модель.exe
+C:\Users\usano\Desktop\оиб\Ролевая модель\Ролевая модель\obj\Debug\Ролевая модель.pdb
